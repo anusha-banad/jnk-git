@@ -1,0 +1,13 @@
+public Sample
+{
+ System.out.println("demo");
+}
+
+public Class
+{
+  public static void main(String args[])
+{
+    Sample s  = new Sample();
+           s.Sample();  
+}
+}
