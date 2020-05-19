@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5CA6-5935
+
+ Directory of C:\Users\Administrator\Desktop\git-jnk\jnk-git
+
+05/19/2020  04:58 PM    <DIR>          .
+05/19/2020  04:58 PM    <DIR>          ..
+05/19/2020  04:58 PM                 0 new.txt
+05/19/2020  03:53 PM               410 Sample.class
+05/19/2020  03:44 PM               152 Sample.java
+05/19/2020  03:26 PM               176 Sample.txt
+               4 File(s)            738 bytes
+               2 Dir(s)  154,625,597,440 bytes free
